@@ -1,0 +1,4 @@
+C:\Users\cjewell\source\repos\visionapp\obj\Release\VisionApp.Form1.resources
+C:\Users\cjewell\source\repos\visionapp\obj\Release\VisionApp.Properties.Resources.resources
+C:\Users\cjewell\source\repos\visionapp\obj\Release\VisionApp.csproj.GenerateResource.cache
+C:\Users\cjewell\source\repos\visionapp\obj\Release\VisionApp.csproj.CoreCompileInputs.cache
