@@ -2,3 +2,14 @@ C:\Users\cjewell\source\repos\visionapp\obj\Release\VisionApp.Form1.resources
 C:\Users\cjewell\source\repos\visionapp\obj\Release\VisionApp.Properties.Resources.resources
 C:\Users\cjewell\source\repos\visionapp\obj\Release\VisionApp.csproj.GenerateResource.cache
 C:\Users\cjewell\source\repos\visionapp\obj\Release\VisionApp.csproj.CoreCompileInputs.cache
+C:\Users\cjewell\source\repos\visionapp\bin\Release\VisionApp.exe.config
+C:\Users\cjewell\source\repos\visionapp\bin\Release\VisionApp.exe.manifest
+C:\Users\cjewell\source\repos\visionapp\bin\Release\VisionApp.application
+C:\Users\cjewell\source\repos\visionapp\bin\Release\VisionApp.exe
+C:\Users\cjewell\source\repos\visionapp\bin\Release\VisionApp.pdb
+C:\Users\cjewell\source\repos\visionapp\obj\Release\VisionApp.TrustInfo.xml
+C:\Users\cjewell\source\repos\visionapp\obj\Release\VisionApp.exe.manifest
+C:\Users\cjewell\source\repos\visionapp\obj\Release\VisionApp.application
+C:\Users\cjewell\source\repos\visionapp\obj\Release\VisionApp.csproj.CopyComplete
+C:\Users\cjewell\source\repos\visionapp\obj\Release\VisionApp.exe
+C:\Users\cjewell\source\repos\visionapp\obj\Release\VisionApp.pdb
