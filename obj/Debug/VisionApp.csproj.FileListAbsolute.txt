@@ -35,3 +35,19 @@ C:\Users\cjewell\source\repos\visionapp\obj\Debug\VisionApp.application
 C:\Users\cjewell\source\repos\visionapp\obj\Debug\VisionApp.csproj.CopyComplete
 C:\Users\cjewell\source\repos\visionapp\obj\Debug\VisionApp.exe
 C:\Users\cjewell\source\repos\visionapp\obj\Debug\VisionApp.pdb
+C:\Users\cjewell\OneDrive - Cognex Corporation\Documents\GitHub\visionapp\bin\Debug\VisionApp.exe.config
+C:\Users\cjewell\OneDrive - Cognex Corporation\Documents\GitHub\visionapp\bin\Debug\VisionApp.exe.manifest
+C:\Users\cjewell\OneDrive - Cognex Corporation\Documents\GitHub\visionapp\bin\Debug\VisionApp.application
+C:\Users\cjewell\OneDrive - Cognex Corporation\Documents\GitHub\visionapp\bin\Debug\VisionApp.exe
+C:\Users\cjewell\OneDrive - Cognex Corporation\Documents\GitHub\visionapp\bin\Debug\VisionApp.pdb
+C:\Users\cjewell\OneDrive - Cognex Corporation\Documents\GitHub\visionapp\obj\Debug\VisionApp.csproj.AssemblyReference.cache
+C:\Users\cjewell\OneDrive - Cognex Corporation\Documents\GitHub\visionapp\obj\Debug\VisionApp.Form1.resources
+C:\Users\cjewell\OneDrive - Cognex Corporation\Documents\GitHub\visionapp\obj\Debug\VisionApp.Properties.Resources.resources
+C:\Users\cjewell\OneDrive - Cognex Corporation\Documents\GitHub\visionapp\obj\Debug\VisionApp.csproj.GenerateResource.cache
+C:\Users\cjewell\OneDrive - Cognex Corporation\Documents\GitHub\visionapp\obj\Debug\VisionApp.csproj.CoreCompileInputs.cache
+C:\Users\cjewell\OneDrive - Cognex Corporation\Documents\GitHub\visionapp\obj\Debug\VisionApp.TrustInfo.xml
+C:\Users\cjewell\OneDrive - Cognex Corporation\Documents\GitHub\visionapp\obj\Debug\VisionApp.exe.manifest
+C:\Users\cjewell\OneDrive - Cognex Corporation\Documents\GitHub\visionapp\obj\Debug\VisionApp.application
+C:\Users\cjewell\OneDrive - Cognex Corporation\Documents\GitHub\visionapp\obj\Debug\VisionApp.csproj.Up2Date
+C:\Users\cjewell\OneDrive - Cognex Corporation\Documents\GitHub\visionapp\obj\Debug\VisionApp.exe
+C:\Users\cjewell\OneDrive - Cognex Corporation\Documents\GitHub\visionapp\obj\Debug\VisionApp.pdb
